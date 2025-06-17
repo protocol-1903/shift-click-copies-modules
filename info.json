@@ -1,0 +1,10 @@
+{
+  "name": "shift-click-copies-modules",
+  "version": "1.0.0",
+  "title": "Shift-Click Copies Modules",
+  "description": "Shift Left/Right clicking entities will attempt to copy the modules of the entities. Will attempt to pull from the player inventory if possible.",
+  "author": "protocol_1903",
+  "homepage": "https://discord.gg/K3fXMGVc4z",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.46"]
+}
